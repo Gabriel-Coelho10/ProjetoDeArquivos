@@ -1,3 +1,9 @@
+# Ignorar executáveis
 *.exe
+
+# Ignorar ficheiros de dados e índices
 *.dat
-temp_*/
+*.idx
+
+# Ignorar ficheiros de compilação (se existirem)
+*.o
